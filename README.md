@@ -7,7 +7,11 @@
 </div>
 
  About Me:
-I’m currently working on a compiler written in Zig<br>I’m looking for help in a game that I have been workin on<br>I’m currently learning Game developement and Backend for webdev<br>💬 Ask me about anything but I can mostly answer questions related to AI/ML<br>⚡ Fun fact I used to make game in Adobe flash when I was a kid :)
+- I’m currently working on a compiler written in Zig
+- I’m looking for help in a game that I have been workin on
+- I’m currently learning Game developement and Backend for webdev
+- Ask me about anything but I can mostly answer questions related to AI/ML
+- Fun fact I used to make game in Adobe flash when I was a kid :)
 
 
 ### Socials:
